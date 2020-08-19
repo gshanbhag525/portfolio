@@ -6,15 +6,15 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Gunesh Shanbhag
+description: Data Science, Golang Programming, Mentoring, etc.
 github_username: gshanbhag525
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "portfolio"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://gshanbhag525.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://gshan.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,13 +34,13 @@ url: "https://gshanbhag525.github.io" # the base hostname & protocol for your si
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/portfolio" # the subpath of your site, e.g. "/blog".
+baseurl: "" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: gunesh_shanbhag
+    github: gshanbhag525
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -49,10 +49,10 @@ use_math:
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: false
+annotations: true
 
 # Set this to true to display tags on each post
 show_tags: true
