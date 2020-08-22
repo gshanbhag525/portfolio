@@ -6,7 +6,7 @@ categories: [golang, beginners]
 title: "Golang Tutorial for Beginners Tutorial 21- For Loop"
 ---
 
-# Golang Tutorial for Beginners Tutorial 21 - For Loop
+# Golang Looping Construct :- For Loop
 
 ## Introduction
 
